@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vomero
-permalink: /Vomero
+permalink: /Vomero/
 ---
 
 ### GETTING THERE
