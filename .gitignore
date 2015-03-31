@@ -1,2 +1,5 @@
 _site/
 .sass-cache/
+about.md
+feed.xml
+index.html
