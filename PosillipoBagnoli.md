@@ -1,3 +1,9 @@
+---
+layout: page
+title: Posillipo e Bagnoli
+permalink: /posillipobagnoli/
+---
+
 GETTING THERE
 
 Not entirely easy. Posillipo, the area with the villa of very rich people, is not

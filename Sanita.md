@@ -1,3 +1,9 @@
+---
+layout: page
+title: Sanità
+permalink: /sanita/
+---
+
 GETTING THERE
 
 The area is north of the stop **Museo** (served by both **linea 1** and

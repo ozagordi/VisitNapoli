@@ -1,3 +1,9 @@
+---
+layout: page
+title: Chiaia
+permalink: /chiaia/
+---
+
 ### GETTING THERE
 
 

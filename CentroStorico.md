@@ -1,3 +1,8 @@
+---
+layout: page
+title: Centro Storico
+permalink: /centro/
+---
 ### GETTING THERE
 
 

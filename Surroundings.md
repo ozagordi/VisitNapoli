@@ -1,3 +1,9 @@
+---
+layout: page
+title: Surroundings
+permalink: /surroundings/
+---
+
 ### POZZUOLI
 
 

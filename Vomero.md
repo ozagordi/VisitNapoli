@@ -1,3 +1,9 @@
+---
+layout: page
+title: Vomero
+permalink: /Vomero
+---
+
 ### GETTING THERE
 
 You can get there in several ways. With any **funicolare**, which brings

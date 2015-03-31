@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Various Tips
-permalink: /tips/
+permalink: /tips
 ---
 
 -   Consider buying the museum pass, there exist several kinds,
