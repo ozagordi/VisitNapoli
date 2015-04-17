@@ -4,12 +4,15 @@ title: Vomero
 permalink: /Vomero/
 ---
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12073.08358027775!2d14.222906806298813!3d40.84397586956698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b08f3ddc5725b%3A0xaa2bdfef84262b36!2sVomero%2C+Naples%2C+Italy!5e0!3m2!1sen!2sch!4v1429281770559" width="600" height="450" frameborder="0" style="border:0">
+</iframe>
+
+
 ### GETTING THERE
 
-You can get there in several ways. With any **funicolare**, which brings
-you uphill very quickly, or with the **metro linea 1,** stops
-**Vanvitelli, Medaglie d'oro, Collana**.
-
+It's a well connected area, served by three funicular railways,
+funicolare Centrale, di Chiaia e di Montesanto, the subway **linea 1,**
+stops **Vanvitelli, Medaglie d'oro, Collana** and serveral buses.
 
 ------------------------------------------------------------------------
 
@@ -43,7 +46,6 @@ Mexico**, that is on **via Scarlatti** just 100m up from piazza
 Vanvitelli. Finally, the real reason why anyone should visit Vomero:
 **Friggitoria Vomero**. It's been in **piazza Fuga** since the fifties
 at least, just opposite the Funicolare Centrale. All they serve is fried
-stuff that you take away. When I was at high school we used to have
+stuff that you take away. In the nineties one could easily be satisfied with
 something like "2000 lire di misto", that would be mixed stuff for one
-euro and it was a lot. Now the price have probably risen, but maybe not
-much.
+euro. It was a lot.

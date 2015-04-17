@@ -3,12 +3,16 @@ layout: page
 title: Centro Storico
 permalink: /centro/
 ---
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6036.159708871762!2d14.25305109797832!3d40.848170543241245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b084390a9fccd%3A0x40944e7e9ec71368!2sHistoric+Centre!5e0!3m2!1sen!2sch!4v1429281926915" width="600" height="450" frameborder="0" style="border:0">
+</iframe>
+
 ### GETTING THERE
 
-
-**Metro linea 2, Cumana or Circumflegrea**: stop** Montesanto.** 
-
-**Metro linea 1**: stop **Dante,** **Toledo, Università**.
+**Funicolare di Montesanto** from Vomero. The stop is right next
+to the stop of **Cumana or Circumflegrea**. The metro linea 2
+stop is 100m away. Further, stops **Dante,** **Toledo, Università**
+of **metro linea 1** are also there.
 
 
 ------------------------------------------------------------------------
